@@ -1,7 +1,9 @@
-![WELCOME TO MY GITHUB PAGE](/DAVEYBAN.png)
+# ![WELCOME TO MY GITHUB PAGE](/DAVEYBAN.png)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/daveoswaldii/"
-    target="_blank" rel="noopener noreferrer">
-    <img src="./I8linkedin.png" height='38px'/>&nbsp;&nbsp;
-</p>
+<div style="text-align:center">  
+
+[![LINKED IN PROFILE](/I8linkedin.png)](https://www.linkedin.com/in/daveoswaldii/)
+[![Twitter PROFILE](/I8twitter.png)](https://twitter.com/DaveyOs1)
+
+
+</div>
